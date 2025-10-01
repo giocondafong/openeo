@@ -23,5 +23,8 @@ This project is intentionally simple and we welcome ideas that make it more usef
 
 This repository is released under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Corrección 
-docs: corrección menor + link a página personal
+---
+
+### Contribuciones
+- Corrección menor de documentación.
+- Añadido enlace a mi página personal: [Mi sitio](https://giocondafong.github.io/giocondafong-site/)
