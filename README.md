@@ -22,3 +22,6 @@ This project is intentionally simple and we welcome ideas that make it more usef
 ## License
 
 This repository is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Corrección 
+docs: corrección menor + link a página personal
