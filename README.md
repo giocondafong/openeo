@@ -27,4 +27,4 @@ This repository is released under the MIT License. See [LICENSE](LICENSE) for de
 
 ### Contribuciones
 - Corrección menor de documentación.
-- Añadido enlace a mi página personal: [Mi sitio](https://giocondafong.github.io/giocondafong-site/)
+- Añadido enlace a mi página personal: [Mi sitio](https://giocondafong.github.io/)
